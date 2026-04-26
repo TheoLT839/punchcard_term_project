@@ -1,4 +1,9 @@
-
+/*
+Bryson Crader & Theodore Tran
+CS 2810 Computer Architecture Sec. 001
+Term Project - Punch Card Reader
+Primary Author: Bryson Crader
+*/
 #include <LiquidCrystal_I2C.h>
 
 LiquidCrystal_I2C lcd(0x27, 20, 4); // I2C address 0x27, 20 column and 4 rows
