@@ -1,8 +1,8 @@
 # Punch Card Reader
-An Arduino MEGA microcontroller-based system designed to read punched holes in a card as ASCII characters and displaying the characters on an LCD screen. 
+An Arduino MEGA microcontroller-based system designed to read eight lanes of punched holes in a card as ASCII characters and displaying the characters on an LCD screen. 
 
-Designed by Bryson Crader (Bryson-C) and Theodore Tran (TheoLT839)
-LiquidCrystal I2C (ver. 1.1.2) by Frank de Brabander
+Designed by Bryson Crader (Bryson-C) and Theodore Tran (TheoLT839).\
+LiquidCrystal I2C (ver. 1.1.2) by Frank de Brabander.
 
 # Attributions
 - Project designed by Bryson Crader (Bryson-C) and Theodore Tran (TheoLT839).
