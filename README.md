@@ -10,7 +10,7 @@ LiquidCrystal I2C (ver. 1.1.2) by Frank de Brabander.
 
 # Build & Run Instructions
 1. Download and extract the `.ZIP` folder.
-2. In an IDE such as the [Arduino IDE](https://www.arduino.cc/en/software/), open the `punchcardreader.ino` file.
+2. In an IDE such as the [Arduino IDE](https://www.arduino.cc/en/software/), open the `punchcardreader.ino` file. Make sure to include the `LiquidCrystal_I2C` library (ver. 1.1.2).
 3. Verify and upload the code to the punch card reader's microcontroller. After the code has been uploaded, the Punch Card Reader will run automatically as long as it is plugged into a power source.
 
 # Parts List
